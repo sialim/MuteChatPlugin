@@ -1,0 +1,8 @@
+name: MuteChatPlugin
+version: '${project.version}'
+main: me.sialim.mutechatplugin.MuteChatPlugin
+api-version: '1.19'
+commands:
+  mutechat:
+    description: Mutes chat for player.
+    usage: /<command>
